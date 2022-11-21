@@ -426,6 +426,13 @@ form {
     padding: 0 30px;
     margin: 70px 0;
 }
+
+.third_block .column .column-list{
+	max-width: 720px;
+    padding: 0 30px;
+    margin-bottom: 30px;
+}
+
 .third_block p {
 margin: 0px 0px 20px;
 }
